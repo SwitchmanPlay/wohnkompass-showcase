@@ -51,6 +51,16 @@ commission, subsidised flats that need a special ticket).
 - **Admin panel inside Telegram**: statistics, per-portal health, AI model chains, feature
   switches and campaigns, all changeable at runtime without a restart.
 
+## Screenshots
+
+Real screens from the live bot.
+
+<table>
+  <tr><td width="50%"><img src="assets/screens/01-alert.webp" alt="A new-listing alert with photo, rent, size, district, AI fit score 8.5 of 10 and price 16% below the district median"></td><td width="50%"><img src="assets/screens/02-application-letter.webp" alt="A one-tap application letter in German with Open listing, Regenerate and Change buttons"></td></tr>
+  <tr><td width="50%"><img src="assets/screens/03-search-wizard.webp" alt="The search wizard asking for city, districts and budget"></td><td width="50%"><img src="assets/screens/04-languages.webp" alt="The language picker with seven languages and the welcome message in Arabic, right to left"></td></tr>
+  <tr><td colspan="2"><img src="assets/screens/05-home.webp" alt="The welcome message listing the five portals, next to the main menu"></td></tr>
+</table>
+
 ## How it works
 
 ```mermaid
