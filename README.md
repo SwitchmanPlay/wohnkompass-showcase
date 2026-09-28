@@ -12,13 +12,15 @@
 <p align="center">
   <a href="https://t.me/wohnkompass_bot">Try the bot</a> ·
   <a href="https://wohnkompass.freshdesign.at">Website</a> ·
-  <a href="https://github.com/SwitchmanPlay/wohnkompass-web-showcase">Website showcase</a>
+  <a href="https://github.com/SwitchmanPlay/wohnkompass-web-showcase">Website showcase</a> ·
+  <a href="https://github.com/SwitchmanPlay/wohnkompass-oss">Open-source edition</a>
 </p>
 
 > **About this repository.** The source code of WohnKompass is private because it is a
 > commercial product. This page explains what I built, how it works and which tools I
 > used, so you can judge the work without the code. Happy to walk through the real code
-> in an interview.
+> in an interview. A simplified, single-user version is open source:
+> [wohnkompass-oss](https://github.com/SwitchmanPlay/wohnkompass-oss).
 
 ---
 
